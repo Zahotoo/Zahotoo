@@ -1,10 +1,9 @@
 # 👋 Hey there! I’m Jiahao Zhu
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000,FF8C00,FFD700&center=true&vCenter=true&width=600&lines=Computer+Science+Student+@+UCD;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Computer+Science+Student+@+UCD;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast" />
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
