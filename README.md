@@ -3,12 +3,12 @@
 
 3rd year Computer Science student at University College Dublin (UCD). I love to keep building new things in this AI era.
 
-<p align="center">
-  <a href="mailto:zjh050330@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/jiahao-zhu-8762b42b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/Zahotoo"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/bszahotoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://discordapp.com/users/zahotoo"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+<p align="right">
+  <a href="mailto:zjh050330@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/jiahao-zhu-8762b42b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/Zahotoo"><img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/bszahotoo/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F" alt="Instagram" /></a>
+  <a href="https://discord.com/users/zahotoo"><img src="https://img.shields.io/badge/Discord-Chat-5865F2" alt="Discord" /></a>
 </p>
 
 ---
